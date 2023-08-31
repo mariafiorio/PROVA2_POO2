@@ -1,6 +1,4 @@
-﻿using Aluno;
-
-namespace Maria
+namespace Aluno
 {
     internal class Aluno
     {
