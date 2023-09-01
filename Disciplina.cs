@@ -7,9 +7,9 @@ namespace Aluno
 {
     public class Disciplina
     {
-        public string nomeDisciplina;
-        public int cargaHoraria;
-        public double limiteFaltas;
+        private string nomeDisciplina;
+        private int cargaHoraria;
+        private double limiteFaltas;
 
 
         public Disciplina()
