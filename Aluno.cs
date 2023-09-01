@@ -2,14 +2,14 @@ namespace Aluno
 {
     internal class Aluno
     {
-        public string nomeAluno;
-        public double nota1Bimestre;
-        public double nota2Bimestre;
-        public double media;
-        public int faltas;
-        public string status;
-        public bool isSemestreFinalizado;
-        public Disciplina disciplina;
+        private string nomeAluno;
+        private double nota1Bimestre;
+        private double nota2Bimestre;
+        private double media;
+        private int faltas;
+        private string status;
+        private bool isSemestreFinalizado;
+        private Disciplina disciplina;
 
 
         public Aluno(string nomeAluno)
